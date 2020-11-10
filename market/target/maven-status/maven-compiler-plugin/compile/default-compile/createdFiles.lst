@@ -1,0 +1,12 @@
+za\co\wethinkcode\model\executor\MarketExecutor.class
+za\co\wethinkcode\model\factory\InstrumentFactory.class
+za\co\wethinkcode\model\instruments\Instrument.class
+za\co\wethinkcode\model\market\Tower.class
+za\co\wethinkcode\core\StockException.class
+za\co\wethinkcode\model\ConsoleDecorator.class
+za\co\wethinkcode\model\market\MarketDatabase.class
+za\co\wethinkcode\model\instruments\details\InstrumentDetails.class
+za\co\wethinkcode\model\market\MarketTower.class
+za\co\wethinkcode\core\App.class
+za\co\wethinkcode\model\instruments\Item.class
+za\co\wethinkcode\model\product\Product.class
